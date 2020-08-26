@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 * 🌱 I’m currently learning: 
   * TDD with Unity3D
   * Flutter (Dart)
-* 💬 Ask me about how to improve working remote
+* 💬 Ask me about *how to improve working remote*
 * 🐦 Twitter: [@Harald3DCV](https://twitter.com/Harald3DCV)
 * ⚡ Fun fact: I am also a hobby DJ 🎧
  
