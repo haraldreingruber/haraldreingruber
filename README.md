@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 * I’m currently experimenting a lot with  
   ✔️ Test-driven Development (TDD)  
   ✔️ Pair-/Mob-Programming 👨👩👨👩   
-  => checkout my blog at [dev.to/Harald3DCV](https://dev.to/Harald3DCV)
+  => check out my blog at [dev.to/Harald3DCV](https://dev.to/Harald3DCV)
 * I’m currently learning  
   🌱 TDD with Unity3D  
   🌱 Flutter (Dart)  
