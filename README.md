@@ -7,11 +7,9 @@ Welcome to my GitHub profile!
   ✔️ Pair-/Mob-Programming 👨👩👨👩   
   => check out my blog at [dev.to/Harald3DCV](https://dev.to/Harald3DCV)
 * I’m currently learning  
-  🌱 TDD with Unity3D  
-  🌱 Flutter (Dart)  
+  🌱 Rust
 * What I want to learn next  
   ⏭️ Elm  
-  ⏭️ Rust  
   ⏭️ Kotlin  
   ⏭️ Go  
 * 💬 Ask me about **how to improve working remote**
