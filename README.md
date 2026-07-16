@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile!
 
-* I like
+* I like 
+
   ✔️ Test-driven Development (TDD)  
   ✔️ Pair-/Mob-Programming 👨👩👨👩   
   => I started a blog but failed miserably at [dev.to/Harald3DCV](https://dev.to/Harald3DCV)
